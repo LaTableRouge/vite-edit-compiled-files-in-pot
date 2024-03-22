@@ -1,0 +1,24 @@
+{
+  "name": "@mlnop/vite-edit-compiled-files-in-pot",
+  "version": "1.0.0",
+  "description": "replace compiled file names inside a pot translation file",
+  "main": "vite-edit-compiled-files-in-pot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLNOP/vite-edit-compiled-files-in-pot.git"
+  },
+  "keywords": [
+    "pot",
+    "compiled files",
+    "viteJS"
+  ],
+  "author": "MLNOP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLNOP/vite-edit-compiled-files-in-pot/issues"
+  },
+  "homepage": "https://github.com/MLNOP/vite-edit-compiled-files-in-pot#readme"
+}
